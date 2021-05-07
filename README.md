@@ -36,6 +36,10 @@ None
 
 rnick1
 
+### **Live Link:**
+
+<a href="https://rnick1.github.io/nicks_employee_directory/">Employee_Directory<a>
+
 ### If you have any questions, please contact Nick Rider at: rnick0260@gmail.com
 
 ### **--------------------------------------------------------------------------**
