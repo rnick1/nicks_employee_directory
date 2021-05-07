@@ -6,7 +6,7 @@
 
 ### **Screenshot:**
 
-![screenshot](public/Images/Screenshot (214).png)
+![screenshot](/public/Images/Screenshot (214).png)
 
 ### **Table of Contents:**
 
