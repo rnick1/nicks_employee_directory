@@ -6,7 +6,7 @@
 
 ### **Screenshot:**
 
-![screenshot](/public/Images/Screenshot (214).png)
+![screenshot](<https://github.com/rnick1/nicks_employee_directory/blob/gh-pages/public/Images/Screenshot%20(214).png>)
 
 ### **Table of Contents:**
 
